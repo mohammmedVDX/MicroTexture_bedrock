@@ -7,7 +7,7 @@
         "version": [
             0,
             0,
-            8
+            10
         ],
         "min_engine_version": [
             1,
@@ -23,11 +23,8 @@
             "version": [
                 0,
                 0,
-                8
+                10
             ]
         }
-    ],
-    "capabilities": [
-        "raytraced"
     ]
 }
