@@ -1,13 +1,13 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Example vanilla resource pack",
-        "name": "Vanilla Resource Pack",
-        "uuid": "66c6e9a8-3093-462a-9c36-dbb052165822",
+        "description": "MicroTexture PvP - Custom GUI & Sky",
+        "name": "MicroTexture Custom",
+        "uuid": "a5f8b9d2-1c2b-4e3a-9d8c-7b6a5f4e3d2c",
         "version": [
             0,
             0,
-            2
+            5
         ],
         "min_engine_version": [
             1,
@@ -17,13 +17,13 @@
     },
     "modules": [
         {
-            "description": "Example vanilla resource pack",
+            "description": "Custom resources for MicroTexture",
             "type": "resources",
-            "uuid": "743f6949-53be-44b6-b326-398005028819",
+            "uuid": "f4e3d2c1-b0a9-4c8d-7e6f-5a4b3c2d1e0f",
             "version": [
                 0,
                 0,
-                2
+                5
             ]
         }
     ]
