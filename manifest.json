@@ -26,5 +26,8 @@
                 6
             ]
         }
+    ],
+    "capabilities": [
+        "raytraced"
     ]
 }
